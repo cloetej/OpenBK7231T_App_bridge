@@ -26,3 +26,4 @@ Do not add anything here, as it will overwritten with next rebuild.
 | [Script examples](https://github.com/openshwprojects/OpenBK7231T_App/blob/main/docs/scriptExamples.md) (6 total) | Scripts can be put in autoexec.bat and then they will start automatically on reboot, you can also put script in other LittleFS file and use startScript [fileName] [Label] command to run them. From the firmware point of view, scripts and autoexecs are basically the same thing. There is, however, a little bit more advanced system of execution for scripts which can be written in a form of scripts threads that run over time, can have delays within then, conditional checks and jumps. |
 | [Console/Script commands [Extended Edition]](https://github.com/openshwprojects/OpenBK7231T_App/blob/main/docs/commands-extended.md) (404 total) | More details on commands. |
 | [Events](https://github.com/openshwprojects/OpenBK7231T_App/blob/main/docs/events.md) (46 total) | undefined |
+...
